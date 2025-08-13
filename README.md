@@ -35,27 +35,6 @@
 - **Tema escuro** + **JetBrainsMono Nerd Font** com ícones (indicadores bonitos na barra)
 - Scripts de inicialização e estrutura de pastas organizada
 
----
-
-## 📁 Estrutura do repositório
-
-```
-Config_Windows_Yasb_Komorebi/
-├─ komorebi/                 # configs do gerenciador de janelas
-│  └─ komorebi.json
-├─ whkd/                     # atalhos de teclado
-│  └─ whkdrc
-├─ yasb/                     # barra (YASB Reborn)
-│  ├─ config.yaml
-│  └─ styles.css
-├─ assets/
-│  └─ screens/               # coloque aqui seus prints (veja os nomes abaixo)
-│     ├─ desktop-hero.png
-│     ├─ tiling-grid.png
-│     └─ wallpapers.png
-└─ scripts/
-   └─ start-komorebi.bat
-```
 
 ---
 
