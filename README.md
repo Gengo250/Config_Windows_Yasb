@@ -217,10 +217,18 @@ Este repositório está sob a licença **MIT**. Sinta‑se livre para forkar, ad
 
 ---
 
-## 📩 Contato
+## 👤 Autor
 
-Quer trocar uma ideia, sugerir melhorias ou usar este layout na sua máquina?  
-Abra uma **Issue** ou me chame no **LinkedIn**.
+**Miguel de Castilho Gengo**  
+Estudante de Engenharia de Computação (PUC-Campinas) • Dev C/Java/Python • Robótica & Cibersegurança
+
+**Links**
+- GitHub: [@Gengo250](https://github.com/Gengo250)
+- LinkedIn: [miguel-gengo-8157b72a1](https://www.linkedin.com/in/miguel-gengo-8157b72a1)
+- E-mail: [miguelgengo28@gmail.com](mailto:miguelgengo28@gmail.com)
+
+Se este setup te ajudou, deixa uma ⭐ no repositório e sinta-se à vontade para abrir uma *Issue* com sugestões.
+
 
 ---
 
