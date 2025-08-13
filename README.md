@@ -184,19 +184,6 @@ alt + shift + 1..9 # enviar janela para workspace
 
 ---
 
-## 🖼️ Seção de Prints (Template)
-
-> Substitua os arquivos abaixo por seus _screenshots_ para exibir no README.
-
-| Desktop (hero) | Layouts em ação | Galeria de wallpapers |
-|---|---|---|
-| ![Desktop](./assets/screens/desktop-hero.png) | ![Grid](./assets/screens/tiling-grid.png) | ![Walls](./assets/screens/wallpapers.png) |
-
-**Sugestões de nome para os arquivos**  
-`assets/screens/desktop-hero.png` • `assets/screens/tiling-grid.png` • `assets/screens/wallpapers.png`
-
----
-
 ## 🎨 Tema & Fonte
 
 - **Fonte**: *JetBrainsMono Nerd Font* — selecione nas configurações do YASB e, se quiser, como fonte do Terminal/VS Code.
