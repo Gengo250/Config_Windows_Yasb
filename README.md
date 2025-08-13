@@ -1,6 +1,25 @@
-# 🪟 Windows Tiling Setup — **Komorebi + YASB**
+# 🪟 Windows Tiling Setup — Komorebi + YASB
 
-> Layouts _tiling_ leves no Windows com **Komorebi** (gerenciador de janelas) e **YASB Reborn** (status bar). Este repositório traz meus arquivos de configuração, tema, atalhos e instruções para reproduzir exatamente o setup das capturas abaixo.
+<p align="center">
+  <!-- OS / Stack -->
+  <img src="https://img.shields.io/badge/Windows-10%2F11-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10/11"/>
+  <img src="https://img.shields.io/badge/Komorebi-tiling%20WM-1f6feb?style=for-the-badge" alt="Komorebi"/>
+  <img src="https://img.shields.io/badge/YASB-status%20bar-6b7280?style=for-the-badge" alt="YASB"/>
+  <img src="https://img.shields.io/badge/PowerShell-7%2B-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell 7+"/>
+  <img src="https://img.shields.io/badge/JetBrainsMono-Nerd%20Font-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrainsMono Nerd Font"/>
+  <!-- GitHub meta -->
+  <a href="https://github.com/Gengo250/Config_Windows_Yasb/stargazers">
+    <img src="https://img.shields.io/github/stars/Gengo250/Config_Windows_Yasb?style=for-the-badge&logo=github" alt="Stars"/>
+  </a>
+  <a href="https://github.com/Gengo250/Config_Windows_Yasb/issues">
+    <img src="https://img.shields.io/github/issues/Gengo250/Config_Windows_Yasb?style=for-the-badge" alt="Issues"/>
+  </a>
+  <img src="https://img.shields.io/github/last-commit/Gengo250/Config_Windows_Yasb?style=for-the-badge" alt="Last commit"/>
+  <img src="https://img.shields.io/badge/License-MIT-16a34a?style=for-the-badge" alt="MIT License"/>
+</p>
+
+> Layouts tiling leves no Windows com **Komorebi** (gerenciador de janelas) e **YASB Reborn** (status bar). Este repositório traz meus arquivos de configuração, tema, atalhos e instruções para reproduzir exatamente o setup das capturas abaixo.
+
 
 ![Hero desktop](./assets/screens/desktop-hero.png)
 ![Grid tiling](./assets/screens/tiling-grid.png)
