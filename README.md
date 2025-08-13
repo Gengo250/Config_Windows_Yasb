@@ -25,8 +25,6 @@
 ![Grid tiling](./assets/screens/tiling-grid.png)
 ![Wallpapers picker](./assets/screens/wallpapers.png)
 
-> **Dica:** salve as imagens das capturas acima dentro de `assets/screens/` com os nomes exibidos. Os arquivos reais não são versionados aqui para manter o repo leve — substitua pelos seus _prints_.
-
 ---
 
 ## ✨ O que vem pronto
