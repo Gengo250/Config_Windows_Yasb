@@ -25,8 +25,6 @@
 ![Grid tiling](./assets/screens/tiling-grid.png)
 ![Wallpapers picker](./assets/screens/wallpapers.png)
 
-> **Dica:** salve as imagens das capturas acima dentro de `assets/screens/` com os nomes exibidos. Os arquivos reais não são versionados aqui para manter o repo leve — substitua pelos seus _prints_.
-
 ---
 
 ## ✨ O que vem pronto
@@ -37,27 +35,6 @@
 - **Tema escuro** + **JetBrainsMono Nerd Font** com ícones (indicadores bonitos na barra)
 - Scripts de inicialização e estrutura de pastas organizada
 
----
-
-## 📁 Estrutura do repositório
-
-```
-Config_Windows_Yasb_Komorebi/
-├─ komorebi/                 # configs do gerenciador de janelas
-│  └─ komorebi.json
-├─ whkd/                     # atalhos de teclado
-│  └─ whkdrc
-├─ yasb/                     # barra (YASB Reborn)
-│  ├─ config.yaml
-│  └─ styles.css
-├─ assets/
-│  └─ screens/               # coloque aqui seus prints (veja os nomes abaixo)
-│     ├─ desktop-hero.png
-│     ├─ tiling-grid.png
-│     └─ wallpapers.png
-└─ scripts/
-   └─ start-komorebi.bat
-```
 
 ---
 
@@ -181,19 +158,6 @@ alt + t         # flutuar / desfazer flutuação
 alt + 1..9      # ir para workspace
 alt + shift + 1..9 # enviar janela para workspace
 ```
-
----
-
-## 🖼️ Seção de Prints (Template)
-
-> Substitua os arquivos abaixo por seus _screenshots_ para exibir no README.
-
-| Desktop (hero) | Layouts em ação | Galeria de wallpapers |
-|---|---|---|
-| ![Desktop](./assets/screens/desktop-hero.png) | ![Grid](./assets/screens/tiling-grid.png) | ![Walls](./assets/screens/wallpapers.png) |
-
-**Sugestões de nome para os arquivos**  
-`assets/screens/desktop-hero.png` • `assets/screens/tiling-grid.png` • `assets/screens/wallpapers.png`
 
 ---
 
